@@ -147,31 +147,22 @@ For more information or support, please contact:
 ### Acknowledgments
 
 - To the developer community of Astro and React for their incredible tools.
-- To all users and contributors  - **White Hat Gazette** is a registered trademark. All rights reserved.
+- To all users and contributors.
 
----
-
-### Technologies Used
-
-- **HTML5**: Structure and content of the web page- **CSS3**: Styles and visual design.
-- **JavaScript**: Interactivity and functionality.
-- **Astro**: Frontend framework for building fast and efficient websites.
-- **React**: JavaScript library for building user interfaces.
-
-### Purpose of the Project
+## Purpose of the Project
 
 The **Linux Terminal Simulator** is an interactive tool designed to help users explore and learn about using the Linux terminal in a safe and controlled environment. With the guidance of **White Hat Gazette**, this simulator allows both beginners and experts to discover essential commands and navigate as if they were in a real console.
 
-### Key Features
+## Key Features
 
 - **Interactivity**: Simulates a real Linux terminal in the browser.
 - **Useful Commands**: Provides a list of essential commands and detailed explanations.
 - **Learning Guide**: Includes tutorials and practical examples to facilitate learning.
 - **Responsive Design**: Functions on mobile devices and desktops.
 
-### System Architecture
+## System Architecture
 
-#### Architecture Overview
+### Architecture Overview
 
 The Linux Terminal Simulator is built with a modular and interactive architecture designed to provide a comprehensive terminal emulation experience. The system is composed of several key modules:
 
@@ -191,17 +182,13 @@ The Linux Terminal Simulator is built with a modular and interactive architectur
    - Audio player for sound files
    - Video player for multimedia content
 
-#### Architecture### **- **Terminal Module**: Central component that processes commands, manages input/output, and maintains command history.
-- **File System Module**: Simulates a complete file system with virtual directories and files.
-- **Interactive Components**: Provides additional functionality like image, audio, and video playback.
-
 ### Module Interactions
 
 - **Terminal Module**: Central component that processes commands, manages input/output, and maintains command history.
 - **File System Module**: Simulates a complete file system with virtual directories and files.
-- **Interactive Components**: Provides additional functionality like image, audio, and video playback.
+- **Interactive Components** Provides additional functionality like image, audio, and video playback.
 
-### How to Use
+## How to Use
 
 1. **Clone the Repository**:
    ```bash
@@ -222,7 +209,7 @@ The Linux Terminal Simulator is built with a modular and interactive architectur
 4. **Access the Simulator**:
    - Open your browser and visit `http://localhost:3000`.
 
-### Contributions
+## Contributions
 
 If you wish to contribute to the project, please follow these guidelines:
 
@@ -241,15 +228,15 @@ If you wish to contribute to the project, please follow these guidelines:
    ```
 5. **Create a Pull Request**.
 
-### License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/bniladridas/whitehatgazette/blob/main/LICENSE) file for more details.
 
-### Contact
+## Contact
 
 For more information or support, please contact:
 
-- **Name**: NILadri Das
+- **Name**: NILADRI DAS
 - **Email**: [dasniladri874@gmail.com](mailto:dasniladri874@gmail.com)
 - **Website**: https://whitehatgazette.vercel.app
 
@@ -257,8 +244,6 @@ For more information or support, please contact:
 
 - To the developer community of Astro and React for their incredible tools.
 - To all users and contributors who have made this project possible.
-
-I hope this comprehensive guide helps you get started with the Linux Terminal Simulator and enhances yourLinux terminal experience through interactive learning and command discovery.
 
 ![White Hat Gazette Logo](/public/bang!.png)
 
